@@ -69,3 +69,4 @@ Practical DAX implementation
 Dashboard design best practices
 
 Data storytelling through visual analytics
+Project dash board: https://github.com/tomygeorge1967/SALES_DATA_BOARD/blob/main/dashboard.jpg
